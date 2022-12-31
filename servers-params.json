@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "UdagramWebApp"
+    },
+    {
+        "ParameterKey": "ServerAMIId",
+        "ParameterValue": "ami-061dbd1209944525c"
+    },
+    {
+        "ParameterKey": "InstanceType",
+        "ParameterValue": "t2.medium"
+    }
+]
